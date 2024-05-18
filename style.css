@@ -1,0 +1,31 @@
+section.verh {
+    text-align: center;
+    background-color: #939879;
+    display: grid;
+    color: aliceblue;
+
+}
+
+section.verh a{
+    text-align: center;
+    background-color: #939879;
+    display: grid;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+section.panel li{
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 60px;
+    
+    
+}
+
+section.panel li ul a{
+    text-decoration: none;
+    list-style-type: none;
+    
+    
+}
